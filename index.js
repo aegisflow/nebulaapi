@@ -7,6 +7,6 @@ export default {
         headers: { 'Content-Type': 'application/json' }
       });
     }
-    return new Response('Gateway demo running — fork and test!', { status: 200 });
+    return new Response('nebulaapi demo running — fork and test!', { status: 200 });
   }
 };
