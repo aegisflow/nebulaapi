@@ -1,4 +1,4 @@
-name = "nebulaapi-demo"
+name = "nebulaapi"
 main = "src/index.js"
 compatibility_date = "2025-11-15"
 
