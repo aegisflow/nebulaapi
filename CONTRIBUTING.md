@@ -17,3 +17,9 @@ Thank you for helping grow this project! Forks and PRs are welcome to snowball N
 - Review with `wrangler check`.
 
 Let’s snowball: Contributions will turn into shoutouts in the README!
+
+Claro! Aqui está a tradução das "Considerações Legais e de Autorização":
+
+## Legal and Authorization Considerations
+
+This project is distributed under the MIT license for personal use and open contributions, but all legal aspects must be strictly respected. Any action beyond personal use—including contributions that alter the core, forks for commercial purposes, sales of derivatives, or negotiations with companies—requires **explicit authorization from the creator** (in writing, via an approved pull request, or approved direct contact). The creator reserves all rights to the essence of the project, and violations may result in access revocation or legal action. Contributions are welcome for collaborative growth, but always aligned with the open-source spirit without competing or lucrative intentions without approval.
