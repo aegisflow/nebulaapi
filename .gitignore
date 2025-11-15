@@ -1,0 +1,14 @@
+# Secrets e env
+.env
+*.key
+*.secret
+
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Wrangler
+.wrangler/
+
+# Logs
+*.log
