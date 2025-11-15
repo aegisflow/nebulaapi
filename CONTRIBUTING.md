@@ -16,9 +16,9 @@ Thank you for helping grow this project! Forks and PRs are welcome to snowball N
 - No resale or commercial use without premium license.
 - Review with `wrangler check`.
 
-Let’s snowball: Contributions will turn into shoutouts in the README!
+Feedback Priority (Replacing Rewards)
 
-Claro! Aqui está a tradução das "Considerações Legais e de Autorização":
+> **Priority:** Detailed bug reports (using the provided `bug_report.md` template) and suggestions for optimizing automation are the most valuable forms of contribution at this time. As the project is maintained by a solo developer and is focused on stability, feedback regarding security, failures, and the efficiency of the Worker runtime is our primary goal.
 
 ## Legal and Authorization Considerations
 
