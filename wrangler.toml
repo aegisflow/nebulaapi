@@ -1,0 +1,7 @@
+name = "nebulaapi-demo"
+main = "src/index.js"
+compatibility_date = "2025-11-15"
+
+vars = {
+  API_KEY = ""  # Placeholder for env (demo)
+}
