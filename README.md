@@ -7,14 +7,14 @@ NebulaAPI is a central bridge for integrating and managing APIs and webhooks in 
 ## Why Use It?
 - **Central Bridge**: Navigate between different APIs and integrate services seamlessly.
 - **Zero-Memory**: Cryptographic validation in a transient cycle, without caching or persistent logs.
-- **Secure and Minimalist**: Deploy in 5 minutes on Cloudflare Workers.
+- **Secure and Minimalist**: Deploy on automation.
 
 ## Installation (Step by Step)
 1. Fork this repo.
 2. Clone: `git clone https://github.com/aegisflow/nebulaapi.git`. 
 3. Install Wrangler: `npm install -g wrangler`.
 4. Test locally: `npx wrangler dev` (open **localhost:8787**).
-5. Deploy: Follow the instructions for deployment on Cloudflare when ready.
+5. Deploy: Follow the instructions for deployment on cloudflare when ready.
 
 ## Example Usage
 Send POST to `/api` with JSON payload — it responds with echoed validation (no secrets, expand with env vars).
