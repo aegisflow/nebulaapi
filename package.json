@@ -8,7 +8,7 @@
     "deploy": "node deploy.js" // Change according to what is applicable
   },
   "dependencies": {
-    "express": "^4.17.1" // Keep only what is really necessary
+    "express": "^5.2.1" // Keep only what is really necessary
   },
   "devDependencies": {},
   "engines": {
